@@ -1,4 +1,4 @@
-prefix=/home/cqc/Coding/R2_Vision_test_ws/devel
+prefix=/home/rc2/Desktop/cqc/R2_vision_test/devel
 
 Name: basketball_detection
 Description: Description of basketball_detection

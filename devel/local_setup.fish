@@ -5,7 +5,7 @@
 # or fall back to the destination set at configure time
 
 if test -z $_CATKIN_SETUP_DIR
-    set _CATKIN_SETUP_DIR /home/cqc/Coding/R2_Vision_test_ws/devel
+    set _CATKIN_SETUP_DIR /home/rc2/Desktop/cqc/R2_vision_test/devel
 end
 
 set CATKIN_SETUP_UTIL_ARGS "--extend --local"
