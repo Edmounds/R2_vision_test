@@ -1,0 +1,8 @@
+prefix=/home/cqc/Coding/R2_Vision_test_ws/devel
+
+Name: basketball_detection
+Description: Description of basketball_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
